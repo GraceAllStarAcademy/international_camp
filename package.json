@@ -2,7 +2,7 @@
   "name": "host-family-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://graceallstaracademy.github.io/international_camp/",
+  "homepage": "https://graceallstaracademy.github.io/international_camp",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
