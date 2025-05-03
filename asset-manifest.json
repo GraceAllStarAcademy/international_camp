@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/international_camp/static/css/main.a6d3bf26.css",
-    "main.js": "/international_camp/static/js/main.d672bece.js",
+    "main.js": "/international_camp/static/js/main.526bea56.js",
     "static/js/453.7aa5e054.chunk.js": "/international_camp/static/js/453.7aa5e054.chunk.js",
     "index.html": "/international_camp/index.html",
     "main.a6d3bf26.css.map": "/international_camp/static/css/main.a6d3bf26.css.map",
-    "main.d672bece.js.map": "/international_camp/static/js/main.d672bece.js.map",
+    "main.526bea56.js.map": "/international_camp/static/js/main.526bea56.js.map",
     "453.7aa5e054.chunk.js.map": "/international_camp/static/js/453.7aa5e054.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6d3bf26.css",
-    "static/js/main.d672bece.js"
+    "static/js/main.526bea56.js"
   ]
 }
