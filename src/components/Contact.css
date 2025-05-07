@@ -1,0 +1,26 @@
+.contact {
+    background-color: #f0f4ff;
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+  
+  .contact h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+  
+  .contact-info {
+    margin-top: 1.5rem;
+    font-size: 1.1rem;
+    line-height: 1.8;
+  }
+  
+  .contact a {
+    color: #3366cc;
+    text-decoration: none;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  

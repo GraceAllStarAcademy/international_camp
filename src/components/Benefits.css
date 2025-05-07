@@ -1,0 +1,22 @@
+.benefits {
+    background-color: #fef6e4;
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .benefits h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .benefits ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 1.1rem;
+  }
+  
+  .benefits li {
+    margin-bottom: 0.75rem;
+  }
+  

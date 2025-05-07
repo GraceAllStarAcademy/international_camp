@@ -1,0 +1,36 @@
+.apply-reminder {
+    background-color: #fff9e5;
+    color: #333;
+    font-size: 1.1rem;
+    padding: 1.5rem;
+    text-align: center;
+    margin: 2rem auto;
+    max-width: 700px;
+    border-left: 5px solid #f0c040;
+    border-radius: 8px;
+    position: relative;
+  }
+  
+  .arrow-container {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: right;
+  }
+  
+  .arrow {
+    font-size: 2rem;
+    animation: bounce 1.5s infinite;
+  }
+  
+  /* Animation pointing toward bottom-right */
+  @keyframes bounce {
+    0%, 100% {
+      transform: translate(30px, 0);
+      opacity: 0.6;
+    }
+    50% {
+      transform: translate(30px, 10px);
+      opacity: 1;
+    }
+  }
+  

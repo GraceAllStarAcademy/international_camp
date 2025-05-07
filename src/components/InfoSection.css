@@ -1,0 +1,19 @@
+.info {
+    padding: 2rem;
+    background-color: #fffefc;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .info h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .info ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  
