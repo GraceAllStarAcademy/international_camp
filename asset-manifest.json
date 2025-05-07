@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/international_camp/static/css/main.0534254a.css",
-    "main.js": "/international_camp/static/js/main.8585703d.js",
+    "main.js": "/international_camp/static/js/main.8edc3d78.js",
     "static/js/453.7aa5e054.chunk.js": "/international_camp/static/js/453.7aa5e054.chunk.js",
     "static/media/FAWZ_International-Exchange-Program_Host-Family.jpg": "/international_camp/static/media/FAWZ_International-Exchange-Program_Host-Family.6bba73fee54109793172.jpg",
     "index.html": "/international_camp/index.html",
     "main.0534254a.css.map": "/international_camp/static/css/main.0534254a.css.map",
-    "main.8585703d.js.map": "/international_camp/static/js/main.8585703d.js.map",
+    "main.8edc3d78.js.map": "/international_camp/static/js/main.8edc3d78.js.map",
     "453.7aa5e054.chunk.js.map": "/international_camp/static/js/453.7aa5e054.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0534254a.css",
-    "static/js/main.8585703d.js"
+    "static/js/main.8edc3d78.js"
   ]
 }
